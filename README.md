@@ -1,7 +1,7 @@
 # geotrace2shapefile
 Tool to save geo trace / area captured in ODK Collect as KML for mapping
 
-Live on: https://answerquest.github.io/geotrace2shapefile/
+Live on: https://answerquest.github.io/ODKgeotrace2shapefile/
 
 Original post about this on ODK forum: https://forum.getodk.org/t/tool-to-save-geo-trace-and-area-as-kml-for-mapping/11539
 
